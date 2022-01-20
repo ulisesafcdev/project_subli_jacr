@@ -1,0 +1,22 @@
+.title__desc {
+    font-family: var(--font-text);
+    margin-bottom: 8px;
+}
+
+.title__desc h2 {
+    font-family: var(--font-text);
+}
+
+.desc__container {
+    display: flex;
+    flex-direction: column;
+}
+
+.img__desc {
+    margin-bottom: 8px;
+    max-width: 500px;
+}
+
+.text__desc {
+    font-family: var(--font-text);
+}

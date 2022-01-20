@@ -1,0 +1,35 @@
+.title__prod {
+    font-family: var(--font-text);
+    margin-bottom: 8px;
+}
+
+.prod__container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card__uno{
+    max-width: 500px;
+    margin-bottom: 8px;
+}
+
+.card__dos {
+    max-width: 500px;
+    margin-bottom: 8px;
+}
+
+.card__uno img,
+.card__dos img {
+    max-width: 400px;
+    height: 300px;
+    margin-bottom: 8px;
+    /* margin-left: auto;
+    margin-right: auto;*/
+} 
+
+.card__uno p,
+.card__dos p {
+    font-family: var(--font-text);
+}
